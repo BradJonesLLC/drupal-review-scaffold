@@ -1,0 +1,10 @@
+{
+  "name": "bradjonesllc/review_scaffold",
+  "description": "Review Environment Scaffolding for Drupal 8.x",
+  "type": "drupal-module",
+  "homepage": "https://github.com/BradJonesLLC/drupal-review-scaffold",
+  "license": "GPL-2.0+",
+  "require": {
+      "drupal/console": "~1.0"
+  }
+}

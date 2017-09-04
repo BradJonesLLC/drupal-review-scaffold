@@ -1,0 +1,6 @@
+services:
+  review_scaffold.scaffold:
+    class: Drupal\review_scaffold\Command\ScaffoldCommand
+    arguments: ['@event_dispatcher']
+    tags:
+      - { name: drupal.command }

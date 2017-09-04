@@ -1,0 +1,5 @@
+name: Review Environment Scaffolding
+core: 8.x
+description: Event-driven scaffolding of starter content for dev & review
+package: Development
+type: module
